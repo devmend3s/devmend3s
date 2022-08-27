@@ -1,5 +1,5 @@
 ## Olá! Eu sou a Nathanaely Mendes 👋
-- 🌱 Sou Dev Back-ebd
+- 🌱 Sou Dev Back-end
 <div align="center">
   <a href="https://github.com/devmend3s">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devmend3s&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
