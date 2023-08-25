@@ -1,6 +1,6 @@
 ## Olá! Eu sou a Nathanaely Mendes 👋
-- 🖥️Sou Dev!!
-- 🖥️Tenho Técnico em Desenvolvimento de Sistemas pela ETEC 
+- 👩🏻‍💻 Atualmente sou graduando em sistemas de informação pela UNASP
+- Tenho Técnico em Desenvolvimento de Sistemas pela ETEC 
 - Aqui no meu perfil posto o que aprendi no meu técnico e alguns projetos para estudos, afinal, estudar nunca é demais.
 <div align="center">
   <a href="https://github.com/devmend3s">
