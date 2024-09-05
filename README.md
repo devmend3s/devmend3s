@@ -1,7 +1,7 @@
 ## Olá! Eu sou a Nathanaely Mendes 👋
-- 👩🏻‍💻 Atualmente sou graduando em sistemas de informação pela UNASP
-- Tenho Técnico em Desenvolvimento de Sistemas pela ETEC 
-- Aqui no meu perfil posto o que aprendi no meu técnico e alguns projetos para estudos, afinal, estudar nunca é demais.
+- 👩🏻‍💻 Atualmente atuando como estágiaria em Desnvolvimento com SalesForce no Agi.
+- Cursando Sistemas de Informação pela UNASP
+- Técnico em Desenvolvimento de Sistemas pela ETEC 
 <div align="center">
   <a href="https://github.com/devmend3s">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devmend3s&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
